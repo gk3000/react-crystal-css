@@ -29,7 +29,6 @@ Wrap around the children elements to render them in a grid:
 ```js
     <Grid columns={"2"} gap={'1em'}>
     {renderAll.all(products)}
-    {renderAll.bsellers(products)}
     </Grid>
 ```
 
