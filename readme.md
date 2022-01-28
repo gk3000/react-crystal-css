@@ -4,14 +4,14 @@ A layout component rendering a Grid container with customizable number of column
 
 ## Installation
 
-Run `npm i react-css-grid-layout` or `yarn add react-css-grid-layout` in the root of your React project
+Run `npm i react-easy-css-grid-layout` or `yarn add react-easy-css-grid-layout` in the root of your React project
 
 ## Usage
 
 In the component import Grid with 
 
 ```js
-import Grid from 'react-css-grid-layout'
+import Grid from 'react-easy-css-grid-layout'
 ```
 
 Wrap around the children elements to render them in a grid:
