@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/gk3000/react-css-grid-layout.git"
+    "url": "git+ssh://git@github.com/gk3000/react-crystal-css.git"
   },
   "keywords": [
     "react",
@@ -18,9 +18,9 @@
   "author": "GK3000",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gk3000/react-css-grid-layout/issues"
+    "url": "https://github.com/gk3000/react-crystal-css/issues"
   },
-  "homepage": "https://github.com/gk3000/react-css-grid-layout#readme",
+  "homepage": "https://github.com/gk3000/react-crystal-css#readme",
   "devDependencies": {
     "@babel/cli": "^7.16.8",
     "@babel/core": "^7.16.12",
