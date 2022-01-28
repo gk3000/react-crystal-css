@@ -57,3 +57,7 @@ will create 5 equally sized columns
 ### `gap` accepted values:
 
 Any length unit which will be used as a gap between columns and rows of your grid
+
+---
+
+Done at <a href='https://barcelonacodeschool.com'>Barcelona Code School</a>
