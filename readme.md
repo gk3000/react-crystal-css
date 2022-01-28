@@ -1,6 +1,6 @@
 # React CSS Grid layout component 
 
-A layout component rendering a Grid container with customizable number of columns, their width and gap between
+A layout component rendering a Grid container with customizable number of columns, their width and gap between columns/rows.
 
 ## Installation
 
