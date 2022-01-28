@@ -1,5 +1,5 @@
 {
-  "name": "react-css-grid-layout",
+  "name": "react-easy-css-grid-layout",
   "version": "1.0.0",
   "description": "Reusable react grid layout component taking props to render a certain CSS Grid container",
   "main": "index.js",
