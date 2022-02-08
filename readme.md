@@ -25,7 +25,7 @@ Wrap around the children elements to render them in a grid:
     </Grid>
 ```
 
-![Example output]('./exampleOutput.png')
+![Example output]('exampleOutput.png')
 
 Or looping and rendering children will also work:
 
