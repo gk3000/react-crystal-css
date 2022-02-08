@@ -27,7 +27,7 @@ Wrap around the children elements to render them in a grid:
 
 It will render those children paragraphs in the Grid with 2 columns:
 
-<img src='./exampleOutput.png' />
+<img src='http://barcelonacodeschool.com/files/pics/exampleOutput.png' />
 
 Or looping and rendering children will also work:
 
