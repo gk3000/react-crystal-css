@@ -25,6 +25,9 @@ Wrap around the children elements to render them in a grid:
     </Grid>
 ```
 
+[Example output]('./exampleOutput.png')
+
+Or looping and rendering children will also work:
 
 ```js
     <Grid columns={"2"} gap={'1em'}>
