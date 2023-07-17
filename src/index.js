@@ -9,7 +9,7 @@ const Grid = (props) => {
     ? (template = `repeat(${props.columns || 1}, 1fr)`)
     : (template = `${pattern.join(" ")}`);
   return (
-    <div
+    <div className='grid' 
       style={{
         display: "grid",
         gridTemplateColumns: template,
