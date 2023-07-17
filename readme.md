@@ -37,6 +37,8 @@ Or looping and rendering children will also work:
     </Grid>
 ```
 
+The wrapper `div` will have class name `grid` which you can target from your custom CSS to add any styles.
+
 ## Props
 
 There are two props accepted: `columns` and `gap`
